@@ -1,0 +1,14 @@
+{
+  "name": "bcryptexample",
+  "version": "0.0.0",
+  "description": "Demonstrates encrypting passwords or other things with bcrypt",
+  "dependencies":{
+  	"express":"*",
+  	"bcrypt":"*",
+	"morgan":"*",
+	"body-parser":"*"
+  },
+  "main": "server.js",
+  "author": "Ram Srinivasan",
+  "license": "BSD-2-Clause"
+}
